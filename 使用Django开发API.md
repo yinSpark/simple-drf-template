@@ -6,11 +6,13 @@
 
 使用虚拟环境开发
 
+```
 pip install django
 pip install djangorestframework
 pip install pygments # 实现代码的高亮显示
 
 sudo apt-get  install httpie # 测试 Web API
+```
 
 ## 二、基础设置
 
